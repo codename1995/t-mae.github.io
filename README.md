@@ -1,0 +1,1 @@
+Webpage for the paper [T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning](https://arxiv.org/abs/2312.10217) by Weijie Wei, Fatemeh Karimi Najadasl, Theo Gevers and Martin R. Oswald.
