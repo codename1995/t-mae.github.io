@@ -2,7 +2,7 @@
 
 Webpage for the paper [T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning](https://arxiv.org/abs/2312.10217) by Weijie Wei, Fatemeh Karimi Najadasl, Theo Gevers and Martin R. Oswald.
 
-This is the repository that contains source code for the [T-MAE website](https://t-mae.github.io).
+This is the repository that contains source code for the [T-MAE website](https://codename1995.github.io/t-mae.github.io/).
 
 If you find T-MAE useful for your work please cite:
 ```
